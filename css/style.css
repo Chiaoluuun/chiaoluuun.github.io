@@ -1,0 +1,251 @@
+.container {
+    width: 1260px;
+    height: 880px;
+    padding: 36px 160px 35px;
+    background-color: #edf2c5;
+}
+  
+.title01{
+    position: absolute;
+    width: 271px;
+    height: 62px;
+    margin-top: 36px;
+    margin-left: 160px;
+    font-family: Arial;
+    font-size: 44px;
+    font-weight: 900;
+    color: #778a50;
+}
+
+img.fb{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    margin-top: 60px;
+    margin-left: 900px;  
+}
+
+img.ig{
+    position: absolute;
+    width: 25px;
+    height: 25px;
+    margin-top: 60px;
+    margin-left: 935px;
+}
+
+.btn_LOGIN_box {
+    position: absolute; 
+    width: 60px;
+    height: 25px;
+    margin-top: 60px;
+    margin-left: 981px;
+    border-width: 1px;
+    border-radius: 3px;
+    border-style: solid;
+    color : #778A50;
+    background-color : #EDF2C5;
+}
+
+.LOGIN {
+    position: absolute; 
+    margin-top: 7px;
+    margin-left: 5px;
+    font-family: 'Arial Black';
+    font-size: 14px;
+    color: #778A50;
+}
+
+.btn_JOIN_box{
+    position: absolute; 
+    width: 50px;
+    height: 25px;
+    margin-top: 60px;
+    margin-left: 1051px;
+    border-width: 1px;
+    border-radius: 3px;
+    border-style: solid;
+    color : #778A50;
+    background-color : #EDF2C5;
+}
+
+.JOIN{
+    position: absolute; 
+    margin-top: 7px;
+    margin-left: 5px;
+    font-family: 'Arial Black';
+    font-size: 14px;
+    color: #778A50;
+}
+.nav_box {
+    position: absolute; 
+    width: 940px;
+    height: 44px;
+    margin-top: 103px;
+    margin-left: 160px;
+    border-radius: 3px;
+    background-color: #778a50;
+}
+
+.ul{
+    position: absolute; 
+    display: flex;
+    margin-top: 117px; 
+    margin-left: 150px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    font-stretch: normal;
+    font-style: normal;
+    color: #edf2c5;
+    max-width: 940px;
+    height: 44px;
+}
+
+.li{
+    list-style: none;
+    margin-right: 30px;
+    margin-left: 30px;
+}
+
+img.pumpkin{
+    position: absolute; 
+    width: 940px;
+    height: 448px;
+    margin-top: 167px;
+    margin-left: 160px;
+}
+
+.body_box{
+    position: absolute; 
+    width: 420px;
+    height: 45px;
+    margin-top: 645px;
+    margin-left: 160px;
+    padding: 4px 0 4px 25px;
+    border-radius: 3px;
+    background-color: #778a50;
+}
+
+.img02{
+    position: absolute; 
+    margin-top: 705px;
+    margin-left: 160px;
+    padding: 0 8px;
+    border-radius: 3px; 
+
+}
+
+.title02{
+    width: 98px;
+    height: 23px;
+    margin: 30;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    color: #edf2c5;
+}
+
+img.pepper{
+    width: 130px;
+    height: 130px;
+    margin: 15px 8px 0 0;
+}
+
+img.carrot {
+    width: 130px;
+    height: 130px;
+    margin: 15px 8px 0;
+}
+
+img.corn{
+    width: 130px;
+    height: 130px;
+    margin: 15px 8px 0 8px;
+}
+
+.contact{
+    position: absolute; 
+    padding: 4px 0px 4px 25px;
+    width: 419px;
+    height: 45px;
+    margin-top: 645px;
+    margin-left: 656px;
+    border-radius: 3px;
+    background-color: #778a50;
+}
+
+.title03{
+    width: 69px;
+    height: 23px;
+    font-family: Arial;
+    font-size: 16px;
+    font-weight: 900;
+    color: #edf2c5;
+}
+
+.contact_text{
+    position: absolute; 
+    width: 415px;
+    height: 110px;
+    margin-top: 720px;
+    margin-left: 656px;
+    padding: 15px;
+    border-radius: 3px;
+    background-color: #f7fbda;
+}
+
+.text{
+    width: 405px;
+    height: 44px;
+    margin: 8px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    color: #7d7d7d;
+}
+
+.line_contact{
+    width: 395px;
+    height: 1px;
+    margin: 10px;
+    background-color: #7d7d7d;
+}
+
+.email{
+    width: 405px;
+    height: 10px;
+    margin: 10px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    color: #7d7d7d;
+}
+
+.phone{
+    width: 405px;
+    height: 10px;
+    font-family: Arial;
+    font-size: 12px;
+    font-weight: normal;
+    margin: 10px;
+    color: #7d7d7d;
+}
+
+.box_footer{
+    width: 623px;
+    height: 40px;
+    margin: 0;
+    padding: 23px 479px 23px 480px;
+    background-color: #778a50;
+}
+
+.foodter_ctn{
+    width: 301px;
+    height: 14px;
+    font-family: Arial;
+    margin: 13px 150px;
+    font-size: 12px;
+    font-weight: normal;
+    color: #edf2c5;
+
+}
